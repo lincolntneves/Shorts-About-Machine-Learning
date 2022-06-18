@@ -18,3 +18,7 @@ The objective of this notebook is only to show up how to save a ML model and, af
 
 #### [04. qcut() for build a scores to the classification Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/qcut()%20for%20build%20a%20scores%20to%20the%20classification%20Machine%20Learning%20Model.ipynb)
 The objective of this notebook is only to show up how to use pandas.qcut() to build a score classes to the classification ML model.
+
+
+#### [05. Building a confusion matrix to analyse my Classification Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20a%20confusion%20matrix%20to%20analyse%20my%20Classification%20Machine%20Learning%20Model.ipynb)
+The objective of this notebook is only to show up how to use crosstab() to build a confusion matrix and calulate accuracy, precision and recall.
