@@ -8,7 +8,7 @@ Here I keep some Python notebooks with the mostly use codes on my daily as a Dat
 The objective of this notebook is only to show up how to use cross-validation to verify the classification ML model quality.
 
 
-#### [02. Predict() and Predict_Proba() for Classification Machine Learning Model]([https://bit.ly/3zwHkAu](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Predict%20and%20Predict%20Proba%20for%20Classification%20Machine%20Learning%20Model.ipynb))
+#### [02. Predict() and Predict_Proba() for Classification Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Predict%20and%20Predict%20Proba%20for%20Classification%20Machine%20Learning%20Model.ipynb)
 The objective of this notebook is only to show up how to use predict(), that results on a dummy variable, and predict_proba() that results on a probability to happens the event.
 
 
