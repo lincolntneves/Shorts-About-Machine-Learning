@@ -14,3 +14,7 @@ The objective of this notebook is only to show up how to use predict(), that res
 
 #### [03. Saving and Loading your Machine Learning Model](github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Saving%20and%20Loading%20your%20Machine%20Learning%20Model.ipynb)
 The objective of this notebook is only to show up how to save a ML model and, after this step, to load then for use normally.
+
+
+#### [04. qcut() for build a scores to the classification Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/qcut()%20for%20build%20a%20scores%20to%20the%20classification%20Machine%20Learning%20Model.ipynb)
+The objective of this notebook is only to show up how to use pandas.qcut() to build a score classes to the classification ML model.
