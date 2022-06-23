@@ -22,3 +22,19 @@ The objective of this notebook is only to show up how to use pandas.qcut() to bu
 
 #### [05. Building a confusion matrix to analyse my Classification Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20a%20confusion%20matrix%20to%20analyse%20my%20Classification%20Machine%20Learning%20Model.ipynb)
 The objective of this notebook is only to show up how to use crosstab() to build a confusion matrix and calulate accuracy, precision and recall.
+
+
+#### [06. Building Decision Tree Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20Decision%20Tree%20Machine%20Learning%20Model.ipynb)
+The objective of this notebook is only to show up how train a machine learning model using Decision Tree algorithm for classification.
+
+
+#### [07. Building Logistic Regression Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20Logistic%20Regression%20Machine%20Learning%20Model.ipynb)
+The objective of this notebook is only to show up how train a machine learning model using Logistic Regression algorithm for classification.
+
+
+#### [08. Building Random Forest Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20Random%20Forest%20Machine%20Learning%20Model.ipynb)
+The objective of this notebook is only to show up how train a machine learning model using Random Forest algorithm for classification.
+
+
+#### [09. Building SVM Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20SVM%20Classification%20Machine%20Learning%20Model.ipynb)
+The objective of this notebook is only to show up how train a machine learning model using SVM algorithm for classification.
