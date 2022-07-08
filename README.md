@@ -4,7 +4,7 @@ Here I keep some Python notebooks with the mostly use codes on my daily as a Dat
 
 
 
-#### [01. Cross-validation for Classification Machine Learning Model](github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Cross-validation%20for%20Classification%20Machine%20Learning%20Model.ipynb)<br>
+#### [01. Cross-validation for Classification Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Cross-validation%20for%20Classification%20Machine%20Learning%20Model.ipynb)<br>
 The objective of this notebook is only to show up how to use cross-validation to verify the classification ML model quality.
 
 
@@ -12,7 +12,7 @@ The objective of this notebook is only to show up how to use cross-validation to
 The objective of this notebook is only to show up how to use predict(), that results on a dummy variable, and predict_proba() that results on a probability to happens the event.
 
 
-#### [03. Saving and Loading your Machine Learning Model](github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Saving%20and%20Loading%20your%20Machine%20Learning%20Model.ipynb)
+#### [03. Saving and Loading your Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Saving%20and%20Loading%20your%20Machine%20Learning%20Model.ipynb)
 The objective of this notebook is only to show up how to save a ML model and, after this step, to load then for use normally.
 
 
