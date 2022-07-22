@@ -38,3 +38,7 @@ The objective of this notebook is only to show up how train a machine learning m
 
 #### [09. Building SVM Machine Learning Model](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Building%20SVM%20Classification%20Machine%20Learning%20Model.ipynb)
 The objective of this notebook is only to show up how train a machine learning model using SVM algorithm for classification.
+
+
+#### [10. Working with pandas.get_dummies() to create dummy variables in dataframes](https://github.com/lincolntneves/Shorts-About-Machine-Learning/blob/main/Notebooks/Working%20with%20pandas.get_dummies()%20to%20create%20dummy%20variables%20in%20dataframes.ipynb)
+The objective of this notebook is only to show up how to use pandas.get_dummies() to create dummy variables with categorical columns in dataframe.
